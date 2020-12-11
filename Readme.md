@@ -40,8 +40,8 @@ Then post the below input in the text area.
 3 2 10
 ```
 
-### To get the response in the standard output please the response **Body** option from **json** <br>
-### to **text**
+ To get the response in the standard output please change the response **Body** option from **json** <br>
+ to **text**
 
 ```
 2 10.00

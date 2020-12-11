@@ -1,5 +1,5 @@
 const express = require('express');
-const { analyzeTasks } = require('./index');
+const { analyzeTasks } = require('./../index');
 
 const app = express();
 
