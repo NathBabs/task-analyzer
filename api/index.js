@@ -43,6 +43,8 @@ app.post('/analyze/tasks', async (req, res) => {
 });
 
 
-app.listen(port, () => {
+/* app.listen(port, () => {
     console.log(`Listening on port ${port} 🌍`);
-});
+}); */
+
+module.exports = app;
