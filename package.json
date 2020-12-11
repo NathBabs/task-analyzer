@@ -2,7 +2,7 @@
   "name": "task-analyzer",
   "version": "1.0.0",
   "description": "analyzes tasks based on user and country",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "start": "nodemon server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
