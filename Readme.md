@@ -1,3 +1,5 @@
+# ⚠  🚩 I couldn't find a way to deploy to VERCEL so i used heroku  instead
+
 # For testing the function
 ## Sample of input
 Pass a string of this format into the analyzeTasks() function. <br>
@@ -27,8 +29,9 @@ US 10.00
 
 ## Sample of input
 
-On Postman select **Body** then select **raw** then select **text**.<br>
-Then post the below input in the text area.
+On the request input area in Postman, select **Body** then select **raw** then select **text**.<br>
+Then post the below input in the text area.<br>
+Send a ``POST`` request to this route ``https://nath-analyze-tasks.herokuapp.com/analyze/tasks`` with a post request containing the input below. 
 
 ```
 2
