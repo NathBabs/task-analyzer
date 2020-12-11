@@ -4,8 +4,7 @@
   "description": "analyzes tasks based on user and country",
   "main": "./helpers/app.js",
   "scripts": {
-    "start": "nodemon server.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js"
   },
   "keywords": [
     "node",
