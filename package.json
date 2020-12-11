@@ -1,0 +1,15 @@
+{
+  "name": "task-analyzer",
+  "version": "1.0.0",
+  "description": "analyzes tasks based on user and country",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "npm"
+  ],
+  "author": "Nathaniel Babalola",
+  "license": "MIT"
+}
